@@ -1,4 +1,4 @@
-public class Company {
+/*public class Company {
 
 	private String name;
 	private String streetAddress;
@@ -30,6 +30,7 @@ public class Company {
 	* 123 Main St
 	* Springfield, OH
 	*/
+	/*
 	public String address()
 	{
 		return null;
@@ -45,8 +46,10 @@ public class Company {
 	* 123 Main St
 	* Springfield, OH
 	*/
+	/*
 	public String toString()
 	{
 		return null;
 	}
 }
+*/

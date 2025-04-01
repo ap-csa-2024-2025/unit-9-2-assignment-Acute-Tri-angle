@@ -1,4 +1,4 @@
-public class OnlineCompany extends Company
+/*public class OnlineCompany extends Company
 {
 	private String webAddress;
 
@@ -26,8 +26,10 @@ public class OnlineCompany extends Company
 	* www.codehs.com
 	*/
 
-	public String toString()
+	/*public String toString()
 	{
 		return null;
 	}
+	
 }
+*/
