@@ -1,18 +1,19 @@
-/*public class OnlineCompany extends Company
+public class OnlineCompany extends Company
 {
 	private String webAddress;
 
 	// An online company's address is its webaddress
 	public OnlineCompany(String name, String webAddress)
 	{
-
+		super(name);
+		this.webAddress = webAddress;
 	}
 
 	// Return the website address, since the address is
 	// reinterpreted as the web address here.
 	public String address()
 	{
-		return null;
+		return webAddress;
 	}
 
 	/** Return a String of the form
@@ -26,10 +27,9 @@
 	* www.codehs.com
 	*/
 
-	/*public String toString()
+	public String toString()
 	{
-		return null;
+		return super.getName() + "\n" + this.address();
 	}
 	
 }
-*/

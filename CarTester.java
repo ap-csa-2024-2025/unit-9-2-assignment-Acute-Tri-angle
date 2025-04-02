@@ -17,7 +17,7 @@ public class CarTester
 		// Print out the model
 		System.out.println(car_in_Cali.getModel());
 		// Print out the fuelLevel
-		System.out.println(car_in_Cali.fuelLevel());
+		System.out.println(car_in_Cali.getFuelLevel());
 		// Print how many miles are left with 400 miles per charge
 		System.out.println(car_in_Cali.milesLeft(400));
 		// Print the object

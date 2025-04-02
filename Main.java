@@ -11,7 +11,7 @@ public class Main
 
 
     // Uncomment to test the Company classes
-    // CompanyTester.run();
+    CompanyTester.run();
 
 
 
